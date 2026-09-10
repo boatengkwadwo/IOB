@@ -9,3 +9,4 @@ Hi, I'm Boateng Kwadwo (IOB), an aspiring Network Engineer from TTU.
 Goal: To become a certified Network Engineer (CCNA).
 
 Connect with me on GitHub!
+- [VLAN Basic Configuration](./Labs/VLAN-Basic-Configuration.md)
