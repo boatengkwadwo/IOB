@@ -1,7 +1,7 @@
-# VLAN Basic Configuration Lab
+# Networking 1
 
 ### Objective:
-Configure VLANs to segment a network in Cisco Packet Tracer.
+Topics 
 
 ### Topology:
 - 1 Switch (2960)
