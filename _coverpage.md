@@ -1,4 +1,4 @@
-# HND 2 PORTAL
+# HND 2 FOLLOW UP PAGE 
 > 2026 / 2027 Academic Year | Department of INFORMATION TECHNOLOGY
 
 > Lecturer: **Boateng Kwadwo**
