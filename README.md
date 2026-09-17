@@ -1,7 +1,7 @@
 # Welcome to IOB Learning Portal 2026
 
 ### Department of Information Technology
-**Lecturer: Boateng Kwadwo | Email: boatengkwadwo@iob.edu.gh**
+**Lecturer: Boateng Kwadwo | Email: boatengkwadwo732@gmail.com**
 
 This is your official e-learning platform. All lecture notes, practicals, and assignments for this semester are here.
 
@@ -12,10 +12,10 @@ This is your official e-learning platform. All lecture notes, practicals, and as
 | **NET101** | [Networking 1](Networking-1/README.md) | B. Kwadwo | ![Active](https://img.shields.io/badge/Active-green) |
 | **DB201** | [Database (Oracle)](Database-Oracle/README.md) | B. Kwadwo | ![Active](https://img.shields.io/badge/Active-green) |
 | **VB101** | [Visual Basic 1](Visual-Basic-1/README.md) | B. Kwadwo | ![Active](https://img.shields.io/badge/Active-green) |
-| **ACC101** | [Accounting 1](Accounting-1/README.md) | B. Kwadwo | Active |
-| **HWT101** | [Hardware Technology](Hardware-Technology/README.md) | B. Kwadwo | Active |
-| **RM101** | [Research Methods](Research-Methods/README.md) | B. Kwadwo | Active |
-| **WEB101** | [Web Technology 1](Web-Technology-1/README.md) | B. Kwadwo | Active |
+| **ACC101** | [Accounting 1](Accounting-1/README.md) | B. Kwadwo | ![Active](https://img.shields.io/badge/Active-green) |
+| **HWT101** | [Hardware Technology](Hardware-Technology/README.md) | B. Kwadwo | ![Active](https://img.shields.io/badge/Active-green) |
+| **RM101** | [Research Methods](Research-Methods/README.md) | B. Kwadwo | ![Active](https://img.shields.io/badge/Active-green) |
+| **WEB101** | [Web Technology 1](Web-Technology-1/README.md) | B. Kwadwo | ![Active](https://img.shields.io/badge/Active-green) |
 
 > **Announcement:** All students must Star this repo and submit Assignment 01 by Sept 30.
 
