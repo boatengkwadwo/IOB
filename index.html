@@ -1,102 +1,32 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Boateng Kwadwo | Network Engineer</title>
-<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+<title>IOB University Portal - Boateng Kwadwo</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
 <style>
-  
-:root{--bg:#0a0f1c;--card:#111a2e;--border:#1e2d50;--blue:#38bdf8;--text:#e2e8f0;--muted:#94a3b8}
-*{margin:0;padding:0;box-sizing:border-box}
-body{font-family:'Inter',sans-serif;background:var(--bg);color:var(--text);line-height:1.6}
-h1,h2,h3{font-family:'Space Grotesk',sans-serif}
-nav{position:fixed;top:0;width:100%;background:rgba(10,15,28,0.8);backdrop-filter:blur(10px);border-bottom:1px solid var(--border);padding:15px 0;z-index:100}
-.nav-inner{max-width:1000px;margin:auto;display:flex;justify-content:space-between;align-items:center;padding:0 20px}
-.nav-inner a{color:var(--muted);text-decoration:none;margin-left:20px;font-size:14px}
-.nav-inner a:hover{color:var(--blue)}
-.hero{max-width:1000px;margin:auto;padding:140px 20px 80px;display:grid;grid-template-columns:1.2fr 0.8fr;gap:40px;align-items:center}
-.hero h1{font-size:52px;line-height:1.1}.hero h1 span{color:var(--blue)}
-.hero p{color:var(--muted);margin:20px 0}
-.btn{display:inline-block;background:var(--blue);color:#000;padding:12px 28px;border-radius:8px;font-weight:700;text-decoration:none;margin-right:10px}
-.btn-outline{border:1px solid var(--border);color:var(--text);background:transparent}
-section{max-width:1000px;margin:auto;padding:60px 20px}
-.section-title{font-size:32px;margin-bottom:30px}
-.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:20px}
-.card{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:24px;transition:0.3s}
-.card:hover{border-color:var(--blue);transform:translateY(-3px)}
-.tag{display:inline-block;background:#0f2238;color:var(--blue);border:1px solid var(--border);padding:4px 10px;border-radius:20px;font-size:12px;margin:4px}
-footer{text-align:center;padding:40px;color:var(--muted);border-top:1px solid var(--border);margin-top:60px}
-@media(max-width:768px){.hero{grid-template-columns:1fr}.hero h1{font-size:36px}}
+:root{--theme-color:#0d47a1; --sidebar-background:#0a1931; --sidebar-nav-link-color:#cbd5e0; --sidebar-nav-link-color--active:#ffca28;}
+.markdown-section h1{color:#0a1931; border-left:6px solid #ffca28; padding-left:15px;}
+.markdown-section h2{color:#0d47a1;}
+.cover{background: linear-gradient(135deg, #0a1931 0%, #0d47a1 100%) !important;}
+.cover h1{color:#fff !important;} .cover blockquote{color:#ffca28 !important;}
 </style>
-  
 </head>
 <body>
-<nav>
-<div class="nav-inner">
-<strong>HND 2</strong>
-<div><a href="#about">About</a><a href="#skills">Skills</a><a href="#labs">Labs</a><a href="#contact">Contact</a></div>
-</div>
-</nav>
-
-<div class="hero">
-<div>
-<h1> HND 2 <span> COURSES PLATFORM </span> FOR ALL.</h1>
-<p>This platform is designed to help every student in HND 2 to know the topics of each course. <strong>Look through to get </strong> your preferred courses and tap on to see the topics , notes and likely questions </p>
-<a class="btn" href="#labs">View courses </a>
-<a class="btn btn-outline" href="https://github.com/boatengkwadwo">GitHub</a>
-</div>
-<div class="card" style="text-align:center">
-<h3>🖧 Currently Learning</h3>
-<p style="color:var(--muted);margin-top:10px">Inter-VLAN Routing<br>OSPF & EIGRP<br>Network Security</p>
-<div style="margin-top:15px"><span class="tag">Cisco</span><span class="tag">Packet Tracer</span><span class="tag">CCNA</span></div>
-</div>
-</div>
-
-<section id="about">
-<h2 class="section-title">About Me</h2>
-<div class="card">
-<p>IT Student passionate about how data moves. I don't just study networking theory — I build it in Packet Tracer, break it, fix it, and document everything on GitHub.</p>
-<p style="margin-top:10px;color:var(--muted)">Goal: Become a Certified Network Engineer (CCNA) and work on enterprise infrastructure in Ghana and beyond.</p>
-</div>
-</section>
-
-<section id="skills">
-<h2 class="section-title">Skills & Tools</h2>
-<div class="grid">
-<div class="card"><h3>Routing & Switching</h3><div style="margin-top:10px"><span class="tag">VLANs</span><span class="tag">STP</span><span class="tag">Inter-VLAN</span><span class="tag">OSPF</span></div></div>
-<div class="card"><h3>Tools</h3><div style="margin-top:10px"><span class="tag">Cisco Packet Tracer</span><span class="tag">GNS3</span><span class="tag">Wireshark</span><span class="tag">Git & GitHub</span></div></div>
-<div class="card"><h3>Fundamentals</h3><div style="margin-top:10px"><span class="tag">IP Subnetting</span><span class="tag">TCP/IP</span><span class="tag">Troubleshooting</span><span class="tag">Documentation</span></div></div>
-</div>
-</section>
-
-<section id="labs">
-<h2 class="section-title">Featured Labs</h2>
-<div class="grid">
-<div class="card">
-<h3>✅ Lab 01: VLAN Basic Configuration</h3>
-<p style="color:var(--muted);font-size:14px;margin:10px 0">Segmented a network into VLAN 10 (STUDENT) and VLAN 20 (ADMIN) using Cisco 2960. Tested isolation and connectivity.</p>
-<span class="tag">VLAN</span><span class="tag">Switching</span>
-<br><a href="./Labs/VLAN-Basic-Configuration.md" style="color:var(--blue);text-decoration:none;display:inline-block;margin-top:12px;font-weight:700">View Configuration →</a>
-</div>
-<div class="card" style="opacity:0.7">
-<h3>🔜 Lab 02: Inter-VLAN Routing</h3>
-<p style="color:var(--muted);font-size:14px;margin:10px 0">Router-on-a-Stick configuration to enable communication between VLANs. Coming next.</p>
-<span class="tag">Coming Soon</span>
-</div>
-</div>
-</section>
-
-<section id="contact">
-<h2 class="section-title">Let's Connect</h2>
-<div class="card" style="text-align:center">
-<p>Looking for internship, collaboration, or just want to talk networking?</p>
-<p style="margin-top:15px"><a class="btn" href="https://github.com/boatengkwadwo">Follow on GitHub</a></p>
-<p style="margin-top:15px;color:var(--muted)">Takoradi, Ghana • boatengkwadwo@github</p>
-</div>
-</section>
-
-<footer>© 2026 Boateng Kwadwo — Built with passion for networking.
-contact me on 0594751381 / 0509015608 </footer>
+<div id="app">Loading University Portal...</div>
+<script>
+window.$docsify={
+ name: '🎓 IOB UNIVERSITY',
+ repo: 'boatengkwadwo/IOB',
+ loadSidebar: true,
+ loadNavbar: true,
+ coverpage: true,
+ search: {placeholder: 'Search courses...', noData: 'No results!'},
+}
+</script>
+<script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
 </body>
 </html>
