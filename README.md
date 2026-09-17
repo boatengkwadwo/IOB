@@ -13,7 +13,7 @@ This is your official e-learning platform. All lecture notes, practicals, and as
 | **DB201** | [Database (Oracle)](Database-Oracle/README.md) | B. Kwadwo | ![Active](https://img.shields.io/badge/Active-green) |
 | **VB101** | [Visual Basic 1](Visual-Basic-1/README.md) | B. Kwadwo | ![Active](https://img.shields.io/badge/Active-green) |
 | **ACC101** | [Accounting 1](Accounting-1/README.md) | B. Kwadwo | ![Active](https://img.shields.io/badge/Active-green) |
-| **HWT101** | [Hardware Technology](Hardware-Technology/README.md) | B. Kwadwo | ![Active](https://img.shields.io/badge/Active-green) |
+| **HWT101** | [Hardware Technology](Hardware-Technology-1/README.md) | B. Kwadwo | ![Active](https://img.shields.io/badge/Active-green) |
 | **RM101** | [Research Methods](Research-Methods/README.md) | B. Kwadwo | ![Active](https://img.shields.io/badge/Active-green) |
 | **WEB101** | [Web Technology 1](Web-Technology-1/README.md) | B. Kwadwo | ![Active](https://img.shields.io/badge/Active-green) |
 
