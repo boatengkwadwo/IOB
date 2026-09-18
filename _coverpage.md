@@ -6,6 +6,7 @@
 ### Department of Information Technology 
 DEVELOPERS:
 KWADWO ISAAC OWUSU BOATENG 
+AND 
 DEMBELE HERMANE 
 
 
