@@ -24,3 +24,6 @@
 
 * **📝 ASSIGNMENT**
     * [Assignments](/Assignment/README.md)
+ 
+* **ℹ️ ABOUT PORTAL**
+    * [About This Site](/About.md)
