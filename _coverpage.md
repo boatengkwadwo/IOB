@@ -1,7 +1,7 @@
 # HND 2 FOLLOW UP PAGE 
 > 2026 / 2027 Academic Year | Department of INFORMATION TECHNOLOGY
 
-> Lecturer: **Boateng Kwadwo**
+> Lecturer notes
 
 * 7 Courses | Practical Labs | Assignments | Video Lectures
 
