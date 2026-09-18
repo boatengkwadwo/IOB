@@ -3,25 +3,25 @@
 
 ### 💻 VISUAL BASIC 1 
 
-**FILE 7: `Visual-Basic-1/Module-01.md`**
+FILE 7: `Visual-Basic-1/Module-01.md
 ```md
 # VB101 - Module 1: Your First Program
 
 **What is Visual Basic?** Easy language to create Windows apps.
 
-**Practical Steps:**
+Practical Steps:
 1. Install Visual Studio 2022
 2. Create Project > Windows Forms App
 3. Form Properties: Text = "IOB Calculator"
 4. Toolbox: Add 2 TextBoxes, 1 Button, 1 Label
 
-**Code for Button:**
+Code for Button:
 ```vb
 Dim a As Integer = Val(TextBox1.Text)
 Dim b As Integer = Val(TextBox2.Text)
 Label1.Text = a + b
 
-**FILE: `Visual-Basic-1/Module-02.md`**
+FILE: `Visual-Basic-1/Module-02.md
 ```md
 
 # Module 2: Forms, Controls & Logic
@@ -33,7 +33,7 @@ Label1.Text = a + b
 - ComboBox: Dropdown
 - ListBox: List
 
-**IF Statement Example - Grading System:**
+IF Statement Example - Grading System
 ```vb
 Dim score As Integer = Val(txtScore.Text)
 If score >= 80 Then
@@ -46,12 +46,12 @@ Else
     lblGrade.Text = "Fail"
 End If
 
-**FILE: `Visual-Basic-1/Module-03.md`**
+FILE: `Visual-Basic-1/Module-03.md
 ```md
 
 # Module 3: Connecting VB to Database (Oracle/Access)
 
-**Steps to connect:**
+Steps to connect
 1. Add Button "Save"
 2. Import: Imports System.Data.OleDb
 3. Code:
