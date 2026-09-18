@@ -1,7 +1,9 @@
 # Welcome to IOB Learning Portal 2026
 
 ### Department of Information Technology
-Lecturer
+
+> **📌 Created: 13th May 2026 by Boateng Kwadwo | For HND LEVEL 200 Students**
+> 
 Email: boatengkwadwo732@gmail.com
 
 This is your official e-learning platform. All lecture notes, practicals, and assignments for this semester are here.
