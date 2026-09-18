@@ -1,11 +1,23 @@
-# HND 2 FOLLOW UP PAGE 
-> 2026 / 2027 Academic Year | Department of INFORMATION TECHNOLOGY
+![logo](https://cdn-icons-png.flaticon.com/512/2232/2232688.png)
 
-> Lecturer notes
+# IOB UNIVERSITY PORTAL
+> 2026 Academic Year
 
-* 7 Courses | Practical Labs | Assignments | Video Lectures
+### Department of Information Technology 
+DEVELOPERS:
+KWADWO ISAAC OWUSU BOATENG 
+DEMBELE HERMANE 
 
-[Enter Classroom](README.md)
-[GitHub](https://github.com/boatengkwadwo/IOB)
 
+
+A modern, readable learning platform for all 7 courses.
+
+* ✅ Beautiful Design
+* ✅ Readable Fonts
+* ✅ Mobile Friendly
+* ✅ Practical Labs & Assignments
+
+[Enter Classroom →](README.md)
+
+<!-- background color -->
 ![color](#0a1931)
