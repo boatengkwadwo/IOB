@@ -4,10 +4,6 @@
 > 2026 Academic Year
 
 ### Department of Information Technology 
-DEVELOPERS:
-KWADWO ISAAC OWUSU BOATENG 
-AND 
-DEMBELE HERMANE 
 
 
 
