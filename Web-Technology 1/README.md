@@ -1,9 +1,9 @@
 
 # WEB101 - Module 1: HTML5 Basics
 
-**HTML = Skeleton of website**
+HTML = Skeleton of website
 
-**Your First Website Code:**
+Your First Website Code!
 ```html
 <!DOCTYPE html>
 <html>
@@ -18,9 +18,9 @@
 
  Module 2: CSS3 Styling - Make it Beautiful
 
-**CSS = Clothing for your website**
+CSS = Clothing for your website**
 
-**3 Ways to add CSS:**
+3 Ways to add CSS:**
 1. Inline: <p style="color:red">
 2. Internal: <style> in head
 3. External: link to style.css (BEST)
@@ -47,14 +47,14 @@ h1 {
 
 # Module 2: CSS3 Styling - Make it Beautiful
 
-**CSS = Clothing for your website**
+CSS = Clothing for your website**
 
-**3 Ways to add CSS:**
+3 Ways to add CSS:**
 1. Inline: <p style="color:red">
 2. Internal: <style> in head
 3. External: link to style.css (BEST)
 
-**Example style.css:**
+Example style.css:**
 ```css
 body {
   font-family: 'Segoe UI', sans-serif;
@@ -74,13 +74,13 @@ h1 {
   border-radius: 10px;
 }
 
-**FILE: `Web-Technology-1/Module-03.md`**
+FILE: `Web-Technology-1/Module-03.md
 ```md
 # Module 3: JavaScript Basics - Make it Interactive
 
-**JS = Brain of website**
+JS = Brain of website
 
-**Example - Alert and Calculator:**
+Example - Alert and Calculator:
 ```html
 <button onclick="greet()">Click Me</button>
 <script>
