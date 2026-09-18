@@ -1,15 +1,15 @@
 # DB201 - Module 1: Database Fundamentals
 
-**What is DBMS?** Software to store and manage data. Eg: Oracle, MySQL.
+What is DBMS? Software to store and manage data. Eg: Oracle, MySQL.
 
 **Why Oracle?** Used by banks, big companies in Ghana.
 
-**Key Terms:**
+Key Terms:
 - Table = Excel sheet
 - Row = Record
 - Column = Field
 
-**Oracle SQL - First Lab:**
+Oracle SQL - First Lab:
 ```sql
 -- Create Database Table
 CREATE TABLE Students (
