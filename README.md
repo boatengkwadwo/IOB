@@ -1,7 +1,8 @@
 # Welcome to IOB Learning Portal 2026
 
 ### Department of Information Technology
-**Lecturer: Boateng Kwadwo | Email: boatengkwadwo732@gmail.com**
+Lecturer
+Email: boatengkwadwo732@gmail.com
 
 This is your official e-learning platform. All lecture notes, practicals, and assignments for this semester are here.
 
@@ -16,6 +17,7 @@ This is your official e-learning platform. All lecture notes, practicals, and as
 | **HWT101** | [Hardware Technology](Hardware-Technology-1/README.md) | B. Kwadwo | ![Active](https://img.shields.io/badge/Active-green) |
 | **RM101** | [Research Methods](Research-Methods/README.md) | B. Kwadwo | ![Active](https://img.shields.io/badge/Active-green) |
 | **WEB101** | [Web Technology 1](Web-Technology-1/README.md) | B. Kwadwo | ![Active](https://img.shields.io/badge/Active-green) |
+| **ASG** | [Assignments](Assignments1/README.md) | B. Kwadwo | ![Active](https://img.shields.io/badge/Active-green) |
 
 > **Announcement:** All students must Star this repo and submit Assignment 01 by Sept 30.
 
